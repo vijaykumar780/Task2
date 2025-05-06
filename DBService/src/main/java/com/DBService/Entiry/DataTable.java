@@ -20,6 +20,6 @@ public class DataTable {
     private int id;
     private int parentId;
     private String name;
-    private double color;
+    private String color;
 
 }
